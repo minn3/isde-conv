@@ -1,2 +1,4 @@
 from .c_conv_kernel import CConvKernel
 from .CConvKernelMovingAverage import CConvKernelMovingAverage
+from .CConvKernelTriangle import CConvKernelTriangle
+from .CConvKernelCombo import CConvKernelCombo
